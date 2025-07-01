@@ -1,0 +1,60 @@
+T-Shirts
+Products: classic_tee, graphic_tee, vneck_tee, full_sleeve_tee
+
+✅ Example questions it can understand:
+
+"Do you have full sleeve t-shirts in medium?"
+
+"Is graphic tee available in size small?"
+
+"What colors are available for v-neck tee?"
+
+"How much is the classic tee?"
+
+👔 Shirts
+Products: formal_shirt, casual_shirt
+
+✅ Example questions:
+
+"Do you have formal shirts in large?"
+
+"Are casual shirts in stock?"
+
+"What fabric is used in the formal shirt?"
+
+👖 Pants
+Products: jeans, formal_pants, joggers
+
+✅ Example questions:
+
+"Is 32 size jeans available?"
+
+"What are the sizes for formal pants?"
+
+"Do you have joggers in medium?"
+
+"Are joggers unisex?"
+
+🧥 Jackets
+Products: bomber_jacket, denim_jacket
+
+✅ Example questions:
+
+"Is bomber jacket in stock?"
+
+"Do you have denim jackets in large?"
+
+"What is the fabric of bomber jacket?"
+
+👟 Shoes
+Products: sneakers, formal_shoes, joggers (in shoes), chappals
+
+✅ Example questions:
+
+"Do you have sneakers size 9?"
+
+"What sizes are available for joggers shoes?"
+
+"Are formal shoes available in black?"
+
+"Are chappals in stock in size 8?"
