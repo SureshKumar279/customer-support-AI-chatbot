@@ -1,0 +1,117 @@
+{
+  "tshirts": {
+    "classic_tee": {
+      "sizes": { "S": 12, "M": 8, "L": 5, "XL": 3 },
+      "colors": ["white", "black", "gray"],
+      "price": "$15",
+      "fabric": "100% cotton",
+      "gender": "unisex"
+    },
+    "graphic_tee": {
+      "sizes": { "S": 0, "M": 4, "L": 6, "XL": 2 },
+      "colors": ["navy blue", "red", "white"],
+      "price": "$20",
+      "fabric": "Cotton blend",
+      "gender": "male"
+    },
+    "vneck_tee": {
+      "sizes": { "S": 3, "M": 7, "L": 0, "XL": 1 },
+      "colors": ["pink", "black", "blue"],
+      "price": "$18",
+      "fabric": "Organic cotton",
+      "gender": "female"
+    },
+    "full_sleeve_tee": {
+      "sizes": { "S": 6, "M": 5, "L": 7, "XL": 3 },
+      "colors": ["maroon", "olive", "black"],
+      "price": "$19",
+      "fabric": "Cotton",
+      "gender": "unisex"
+    }
+  },
+  "shirts": {
+    "formal_shirt": {
+      "sizes": { "S": 4, "M": 10, "L": 6, "XL": 3 },
+      "colors": ["white", "sky blue", "gray"],
+      "price": "$30",
+      "fabric": "Cotton blend",
+      "gender": "male"
+    },
+    "casual_shirt": {
+      "sizes": { "S": 7, "M": 8, "L": 4, "XL": 2 },
+      "colors": ["green", "brown", "checked blue"],
+      "price": "$25",
+      "fabric": "Flannel",
+      "gender": "male"
+    }
+  },
+  "pants": {
+    "jeans": {
+      "sizes": { "30": 5, "32": 6, "34": 4, "36": 3 },
+      "colors": ["blue", "black", "faded gray"],
+      "price": "$35",
+      "fabric": "Denim",
+      "gender": "unisex"
+    },
+    "formal_pants": {
+      "sizes": { "30": 3, "32": 5, "34": 2, "36": 1 },
+      "colors": ["black", "navy blue", "gray"],
+      "price": "$40",
+      "fabric": "Poly-viscose blend",
+      "gender": "male"
+    },
+    "joggers": {
+      "sizes": { "S": 6, "M": 9, "L": 5, "XL": 3 },
+      "colors": ["black", "charcoal", "olive"],
+      "price": "$28",
+      "fabric": "Poly-cotton",
+      "gender": "unisex"
+    }
+  },
+  "jackets": {
+    "bomber_jacket": {
+      "sizes": { "M": 5, "L": 3, "XL": 2 },
+      "colors": ["black", "khaki", "navy blue"],
+      "price": "$50",
+      "fabric": "Nylon with inner fleece",
+      "gender": "male"
+    },
+    "denim_jacket": {
+      "sizes": { "M": 6, "L": 4 },
+      "colors": ["blue", "black"],
+      "price": "$55",
+      "fabric": "Denim",
+      "gender": "unisex"
+    }
+  },
+  "shoes": {
+    "sneakers": {
+      "sizes": { "7": 3, "8": 4, "9": 5, "10": 2 },
+      "colors": ["white", "black", "red"],
+      "price": "$45",
+      "material": "Canvas",
+      "gender": "unisex"
+    },
+    "formal_shoes": {
+      "sizes": { "7": 2, "8": 3, "9": 2, "10": 1 },
+      "colors": ["black", "brown"],
+      "price": "$60",
+      "material": "Leather",
+      "gender": "male"
+    },
+    "joggers": {
+      "sizes": { "6": 5, "7": 4, "8": 6, "9": 3 },
+      "colors": ["gray", "navy", "black"],
+      "price": "$50",
+      "material": "Mesh and rubber",
+      "gender": "unisex"
+    },
+    "chappals": {
+      "sizes": { "6": 2, "7": 3, "8": 2, "9": 1 },
+      "colors": ["brown", "black"],
+      "price": "$20",
+      "material": "Leatherette",
+      "gender": "male"
+    }
+  }
+}
